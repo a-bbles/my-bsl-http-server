@@ -1,4 +1,3 @@
-```bzg
 // Include the BSL socket library
 include("lib/socket.bzg");
 
