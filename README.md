@@ -208,7 +208,7 @@ Through this laboratory activity, the project demonstrates:
 
 ## Author
 
-**[YOUR NAME]**
+**Shifra "Abby" Garcia**
 
 BS Information Technology
 Network Systems
