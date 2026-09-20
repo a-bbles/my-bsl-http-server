@@ -82,7 +82,7 @@ This installs the Socket Library required by the HTTP server.
 Clone this repository using Git:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone [YOUR_GITHUB_REPOSITORY_URL](https://github.com/a-bbles/my-bsl-http-server/tree/main)
 ```
 
 Then navigate into the project directory:
